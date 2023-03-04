@@ -26,16 +26,17 @@ FEATURES:<br>
 		"As a Beas standard user, I want to be able to search, save and show my current top artist because I want others to discover them."
 	<br>
 	Task: <br>
-		-Save users' music selection on a main page (model)<\n>
-		-Change top artist (or song) category order</n>
-		-Display this first on the users page </n>
-		-Leave a comment section below (show last 5 comments)
-		-Have a custom 'about me' header below TOP
-		-Create a post below About me 
+		-Save users' music selection on a main page (model)<br>
+		-Change top artist (or song) category order<br>
+		-Display this first on the users page <br>
+		-Leave a comment section below (show last 5 comments)<br>
+		-Have a custom 'about me' header below TOP<br>
+		-Create a post below About me <br>
 		
+<br>
 
 
-DATA MODEL
+DATA MODEL  <br>
 		-POST for all comments left on TOP section
 		-User/Password
 		-Date/time
