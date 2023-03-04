@@ -10,7 +10,7 @@ PROJECT OVERVIEW: </br>
 		Visual music playlist (top favs) 
 		Users will also be able to have a blog section.
 		Users will be able to search, stream and share their favorite
-		music within a community.
+		music within a community.</br>
 	Solving
 		This will help others discover new music and users with similar tastes.
 		Independent artists will also have the option to subscribe and 
