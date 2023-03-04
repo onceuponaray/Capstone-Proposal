@@ -5,22 +5,25 @@ Beas
 Pronounced as Bees
 
 
-PROJECT OVERVIEW: </br>
-	Features<br>
+PROJECT OVERVIEW: <br>
+	Features  <br>
 		Visual music playlist (top favs) 
 		Users will also be able to have a blog section.
 		Users will be able to search, stream and share their favorite
-		music within a community.</br>
-	Solving
+		music within a community.
+	<br>
+	Solving  <br>
 		This will help others discover new music and users with similar tastes.
 		Independent artists will also have the option to subscribe and 
-		be able to promote their music.
-	Libraries/Frameworks
+		be able to promote their music.</br>
+	<br>
+	Libraries/Frameworks <br>
 		Spotifys Web playback SDK (API)
-		Spline 
+		Spline </br>
+	<br>
 
 FEATURES:
-		"As a Beas standard user, I want to be able to search, save and show my current top artist 					because I want others to discover them."
+		"As a Beas standard user, I want to be able to search, save and show my current top artist because I want others to discover them."
 	Task: 
 		-Save users' music selection on a main page (model)
 		-Change top artist (or song) category order 
