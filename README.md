@@ -6,18 +6,18 @@ Pronounced as Bees
 
 
 PROJECT OVERVIEW: <br>
-	Features  <br>
+	Features:  <br>
 		Visual music playlist (top favs) 
 		Users will also be able to have a blog section.
 		Users will be able to search, stream and share their favorite
 		music within a community.
 	<br>
-	Solving  <br>
+	Solving:  <br>
 		This will help others discover new music and users with similar tastes.
 		Independent artists will also have the option to subscribe and 
 		be able to promote their music.</br>
 	<br>
-	Libraries/Frameworks <br>
+	Libraries/Frameworks: <br>
 		Spotifys Web playback SDK (API)
 		Spline </br>
 	<br>
