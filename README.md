@@ -22,12 +22,13 @@ PROJECT OVERVIEW: <br>
 		Spline </br>
 	<br>
 
-FEATURES:
+FEATURES:<br>
 		"As a Beas standard user, I want to be able to search, save and show my current top artist because I want others to discover them."
-	Task: 
-		-Save users' music selection on a main page (model)
-		-Change top artist (or song) category order 
-		-Display this first on the users page 
+	<br>
+	Task: <br>
+		-Save users' music selection on a main page (model)</n>
+		-Change top artist (or song) category order</n>
+		-Display this first on the users page </n>
 		-Leave a comment section below (show last 5 comments)
 		-Have a custom 'about me' header below TOP
 		-Create a post below About me 
