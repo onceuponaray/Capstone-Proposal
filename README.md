@@ -26,7 +26,7 @@ FEATURES:<br>
 		"As a Beas standard user, I want to be able to search, save and show my current top artist because I want others to discover them."
 	<br>
 	Task: <br>
-		-Save users' music selection on a main page (model)</n>
+		-Save users' music selection on a main page (model)\n
 		-Change top artist (or song) category order</n>
 		-Display this first on the users page </n>
 		-Leave a comment section below (show last 5 comments)
