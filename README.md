@@ -5,7 +5,7 @@ Beas
 Pronounced as Bees
 
 
-PROJECT OVERVIEW: 
+PROJECT OVERVIEW: </br>
 	Features
 		Visual music playlist (top favs) 
 		Users will also be able to have a blog section.
