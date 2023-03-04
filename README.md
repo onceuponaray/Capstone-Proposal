@@ -3,7 +3,6 @@
 NAME:  
 Beas 
 Pronounced as Bees
-(Originally researched Bes, an Egyptian dwarf god associated with music, dance, and childbirth.) 
 
 
 PROJECT OVERVIEW: 
