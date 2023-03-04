@@ -6,7 +6,7 @@ Pronounced as Bees
 
 
 PROJECT OVERVIEW: </br>
-	Features
+	Features<br>
 		Visual music playlist (top favs) 
 		Users will also be able to have a blog section.
 		Users will be able to search, stream and share their favorite
