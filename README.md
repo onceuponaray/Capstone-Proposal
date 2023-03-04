@@ -37,10 +37,10 @@ FEATURES:<br>
 
 
 DATA MODEL  <br>
-		-POST for all comments left on TOP section
-		-User/Password
-		-Date/time
-		-Image
+		-POST for all comments left on TOP section <br>
+		-User/Password <br>
+		-Date/time <br>
+		-Image <br>
 		
 SCHEDULE 
 	
