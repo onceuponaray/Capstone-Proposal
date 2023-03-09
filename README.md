@@ -31,7 +31,7 @@ FEATURES:<br>
 		-Display this first on the users page <br>
 		-Leave a comment section below (show last 5 comments)<br>
 		-Have a custom 'about me' header below TOP<br>
-		-Create a post below About me <br>
+		-Create a post page/ with top song.<br>
 		
 <br>
 
